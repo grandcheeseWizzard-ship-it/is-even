@@ -1,4 +1,4 @@
 #include "isEven.hpp"
 
-// One line fuction using a statement to get boolean result
+// Returns a Boolean value of True if even, and false if odd.
 bool isEven(int num) {return (num % 2) == 0;}
