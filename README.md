@@ -5,5 +5,5 @@ C++ Library for checking if a value is even.
 2. Run `make`
 3. Run `sudo make install`
 # Using is-even
-Add `#include <isEven.hpp>` to your `#include` section
+Add `#include <isEven.hpp>` to your `#include` section.
 Use `isEven(int)` and replace `int` with desired value to check.
